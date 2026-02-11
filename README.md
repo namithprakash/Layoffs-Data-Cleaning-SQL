@@ -1,4 +1,4 @@
-# Data-Cleaning Project:
+# Data Cleaning - (Layoffs):
 
 This project demonstrates an end-to-end data cleaning workflow in SQL using a real-world layoffs dataset. The goal is to convert raw, inconsistent data into a structured and trustworthy foundation for exploratory data analysis (EDA) and downstream insights.
 
